@@ -7164,7 +7164,7 @@
               "version_added": true
             },
             "ie": {
-              "version_added": null
+              "version_added": "6"
             },
             "opera": {
               "version_added": true
